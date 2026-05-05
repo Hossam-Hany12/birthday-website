@@ -56,7 +56,7 @@ setTimeout(function() {
             <div class="right">
                 <div class="box__account">
                     <div class="image"><img src="./images/unnamed.png" alt=""></div>
-                    <div class="name"><i class="fa-solid fa-heart"></i><span>Dear Mehwish</span><i class="fa-solid fa-heart"></i></div>
+                    <div class="name"><i class="fa-solid fa-heart"></i><span>Dear Hams</span><i class="fa-solid fa-heart"></i></div>
                 </div>
             </div>
         </div>
